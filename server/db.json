@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "suha",
+      "password": "suha"
+    },
+    {
+      "id": 2,
+      "title": "json",
+      "author": "typicode"
+    },
+    {
+      "username": "suha",
+      "password": "suha",
+      "id": 3
+    },
+    {
+      "username": "suha",
+      "password": "suha2",
+      "id": 4
+    },
+    {
+      "username": "sss",
+      "password": "sss",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
